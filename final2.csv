@@ -1,0 +1,1509 @@
+,disease,drug
+0,Alkylating Agent Cystitis,sodium bicarbonate
+1,Abdominal Distension,bethanechol
+3,Abdominal Distension Prior to Abdominal X-ray,vasopressin
+4,Abdominal Radiological Procedure,vasopressin
+6,Abnormal Uterine Bleeding,medroxyprogesterone
+7,Abortion,misoprostol
+8,Ectopic Pregnancy,methotrexate
+9,CNS Infection,cefotaxime
+10,Seizures (Convulsions),levetiracetam
+11,Angina,aspirin
+12,Fecal Incontinence,dextranomer / sodium hyaluronate
+13,Acetaminophen Overdose,acetylcysteine
+15,Tendonitis,meloxicam
+17,GERD,omeprazole
+18,Acidosis,sodium bicarbonate
+21,Muscle Pain,ibuprofen
+22,Acne,doxycycline
+23,Rosacea,doxycycline
+25,HIV Infection,lamivudine
+27,Methemoglobinemia,methylene blue
+28,Acromegaly,bromocriptine
+29,Erythromelalgia,gabapentin
+30,Actinic Keratosis,fluorouracil
+31,Actinomycosis,amoxicillin
+32,"Asthma, acute",albuterol
+33,Urinary Tract Infection,ciprofloxacin
+34,Acute Lymphocytic Leukemia,prednisone
+35,Acute Coronary Syndrome,clopidogrel
+36,"Acute Coronary Syndrome, Prophylaxis",clopidogrel
+37,Glomerulonephritis,azathioprine
+38,Acute Myeloid Leukemia,cytarabine
+40,Porphyria,chlorpromazine
+41,Acute Lymphoblastic Leukemia,methotrexate
+43,Acute Myeloblastic Leukemia,doxorubicin
+46,Acute Nonlymphocytic Leukemia,isotretinoin
+47,Acute Otitis Externa,ofloxacin
+48,Acute Promyelocytic Leukemia,tretinoin
+49,Respiratory Distress Syndrome,beractant
+51,Sinusitis,amoxicillin
+52,Anxiety and Stress,sertraline
+53,Adenosine Deaminase Deficiency,pegademase bovine
+54,Adams-Stokes Syndrome,epinephrine
+55,ADHD (Attention Deficit Hyperactivity Disorder),methylphenidate
+56,Addison's Disease,hydrocortisone
+57,Renal Cell Carcinoma,pazopanib
+59,Adenovirus Prophylaxis,adenovirus vaccine
+61,Frozen Shoulder,diclofenac
+62,Dercum's Disease,fentanyl
+63,Adjunct to Antibiotic Therapy,probenecid
+64,Polycystic Kidney Disease,enalapril
+65,Adrenal Cortical Carcinoma,mitotane
+66,Adrenal Insufficiency,dexamethasone
+70,Adrenocortical Insufficiency,hydrocortisone
+71,Adrenogenital Syndrome,fludrocortisone
+72,Adult Human Growth Hormone Deficiency,somatropin
+73,Still's Disease,anakinra
+75,Atrial Fibrillation,digoxin
+77,Trypanosomiasis,pentamidine
+78,Aggressive Behavior,haloperidol
+79,Agitated State,aripiprazole
+80,Agitation,risperidone
+81,Myelofibrosis,ruxolitinib
+82,Agoraphobia,fluoxetine
+83,Neutropenia,filgrastim
+85,AIDS Related Wasting,dronabinol
+89,Akathisia,propranolol
+90,Alcohol Dependence,naltrexone
+91,Alcoholism,gabapentin enacarbil
+92,Alcohol Withdrawal,gabapentin
+94,Alcoholic Liver Damage,propylthiouracil
+98,Vaginal pH Imbalance,hydroxyquinoline
+99,Alkalosis,ammonium chloride
+103,Allergic Asthma,terbutaline
+104,"Conjunctivitis, Allergic",ketotifen
+105,Atopic Dermatitis,triamcinolone
+106,Allergic Reactions,diphenhydramine
+108,Allergic Rhinitis,cetirizine
+109,Allergic Urticaria,hydroxyzine
+110,Allergies,hydroxyzine
+112,Alopecia,spironolactone
+114,Thalassemia,hydroxyurea
+115,Alpha-1 Proteinase Inhibitor Deficiency,alpha 1-proteinase inhibitor
+117,Alport Syndrome,lisinopril
+118,Amyotrophic Lateral Sclerosis,riluzole
+119,Soft Tissue Sarcoma,pazopanib
+120,Alzheimer's Disease,donepezil
+121,Amebiasis,metronidazole
+123,Amenorrhea,medroxyprogesterone
+129,Amyloid Cardiomyopathy,tafamidis
+130,Amyloidogenic Transthyretin Amyloidosis,inotersen
+131,Amyloidosis,colchicine
+135,Aspiration Pneumonia,prednisone
+136,Anal Cancer,capecitabine
+137,Anal Fissure and Fistula,nitroglycerin
+141,Anal Itching,hydrocortisone
+142,Anaphylaxis,epinephrine
+145,Anaplastic Astrocytoma,temozolomide
+146,Anaplastic Oligodendroglioma,temozolomide
+147,Thyroid Cancer,thyroid desiccated
+148,Hookworm Infection (Necator or Ancylostoma),mebendazole
+149,Cutaneous Larva Migrans,ivermectin
+152,Androgenetic Alopecia,finasteride
+153,Anemia,epoetin alfa
+154,Anemia Associated with Chronic Renal Failure,ferrous sulfate
+155,Anemia Associated with Iron Deficiency,ferrous fumarate / folic acid
+156,"Anemia, Drug Induced",epoetin alfa
+157,Anemia Prior to Surgery,epoetin alfa
+158,"Anemia, Chemotherapy Induced",epoetin alfa
+161,Iron Deficiency Anemia,ferrous sulfate
+162,"Anemia, Megaloblastic",folic acid
+163,"Anemia, Sickle Cell",hydroxyurea
+164,Anesthesia,propofol
+165,Anesthetic Adjunct,hydromorphone
+168,Angina Pectoris Prophylaxis,isosorbide mononitrate
+172,Angioblastoma,interferon alfa-2b
+173,Angiocardiography,iohexol
+174,Angioedema,danazol
+175,Magnetic Resonance Angiography,gadobenate dimeglumine
+176,Peripheral Angiography,iohexol
+177,Renal Angiomyolipoma,everolimus
+179,Angiostrongylosis,mebendazole
+183,Edema,furosemide
+184,Diffuse Idiopathic Skeletal Hyperostosis,ibuprofen
+185,Ankylosing Spondylitis,diclofenac
+186,Anorexia,cyproheptadine
+187,Anorexia Nervosa,olanzapine
+189,Anorexia/Feeding Problems,fluvoxamine
+192,Anthrax,ciprofloxacin
+193,Anthrax Prophylaxis,amoxicillin
+197,Anti NMDA Receptor Encephalitis,immune globulin intravenous
+198,Ethylene Glycol Poisoning,fomepizole
+199,Pseudomembranous Colitis,metronidazole
+200,Anticholinergic Syndrome,physostigmine
+201,Anticholinesterase Overdose,pralidoxime
+202,Anticholinesterase Poisoning,atropine
+203,Anticoagulation During Pregnancy,heparin
+204,"Sexual Dysfunction, SSRI Induced",buspirone
+205,Antiphospholipid Syndrome,warfarin
+207,Antithrombin III Deficiency,antithrombin iii
+208,Anxiety,clonazepam
+210,Generalized Anxiety Disorder,escitalopram
+212,Aortic Aneurysm,metoprolol
+213,Aortic Stenosis,propranolol
+214,Prosthetic Heart Valves - Thrombosis Prophylaxis,aspirin
+216,Aortography,iodixanol
+217,Auditory Processing Disorder,dexmethylphenidate
+218,"Aphthous Stomatitis, Recurrent",colchicine
+219,Aphthous Ulcer,triamcinolone
+220,Aplastic Anemia,filgrastim
+221,Apnea of Prematurity,theophylline
+222,Appendectomy,piperacillin / tazobactam
+223,Appendicitis,piperacillin / tazobactam
+227,Occipital Neuralgia,gabapentin
+228,Arrhythmia,amiodarone
+229,Arsenic Poisoning,dimercaprol
+230,Atherosclerosis,rosuvastatin
+231,Arteriosclerotic Dementia,ergoloid mesylates
+232,Coronary Artery Disease,lisinopril
+233,Rheumatoid Arthritis,methotrexate
+234,Osteoarthritis,meloxicam
+235,Reiter's Syndrome,adalimumab
+237,Arthrography,iohexol
+238,Pulmonary Fibrosis,mycophenolate mofetil
+239,Ascariasis,albendazole
+242,Ascites,furosemide
+243,Aseptic Necrosis,ibuprofen
+244,Asperger Syndrome,risperidone
+245,"Aspergillosis, Aspergilloma",itraconazole
+246,"Aspergillosis, Invasive",voriconazole
+251,Asthma,montelukast
+255,"Asthma, Maintenance",albuterol
+257,Asystole,epinephrine
+259,Tinea Pedis,clotrimazole
+261,Eczema,triamcinolone
+263,Atrial Flutter,diltiazem
+264,Atrial Tachycardia,verapamil
+265,Atrophic Urethritis,estradiol
+266,Atrophic Vaginitis,estradiol
+274,Autism,risperidone
+277,Autoimmune Hemolytic Anemia,prednisone
+278,Autoimmune Hepatitis,azathioprine
+279,Autoimmune Neutropenia,immune globulin intravenous
+281,AV Heart Block,atropine
+283,Avian Influenza,oseltamivir
+285,B Cell Lymphoma,tisagenlecleucel
+287,B12 Nutritional Deficiency,cyanocobalamin
+288,Babesiosis,clindamycin
+289,Back Pain,tramadol
+291,Bacteremia,ceftriaxone
+292,"Conjunctivitis, Bacterial",erythromycin
+293,Campylobacter Gastroenteritis,erythromycin
+294,Bacterial Endocarditis Prevention (Bacterial Endocarditis Prophylaxis),amoxicillin
+297,Bacterial Infection,amoxicillin
+298,Bacterial Skin Infection,sulfamethoxazole / trimethoprim
+299,Bacterial Vaginitis,metronidazole
+301,Vertigo,meclizine
+302,Balanoposthitis,clotrimazole
+304,Balantidium coli,metronidazole
+309,Tinea Barbae,griseofulvin
+310,Barium Meal Transit,sincalide
+311,Barium Poisoning,magnesium sulfate
+312,Mitral Valve Prolapse,atenolol
+313,Barrett's Esophagus,omeprazole
+315,Bartonellosis,rifampin
+316,Bartter Syndrome,indomethacin
+317,Basal Cell Carcinoma,fluorouracil
+319,Migraine,sumatriptan
+322,Body Dysmorphic Disorder,escitalopram
+324,Binge Eating Disorder,fluoxetine
+325,Dermal Ulcer,collagenase
+326,Enuresis,imipramine
+327,Beef Tapeworm Infection (Taenia saginata),praziquantel
+328,Behcet's Disease,colchicine
+329,Bejel,penicillin g benzathine
+330,Gas,simethicone
+332,Benign Essential Tremor,propranolol
+333,Muscle Twitching (Fasciculations),baclofen
+334,Pseudotumor Cerebri,acetazolamide
+335,Chronic Fatigue Syndrome,modafinil
+337,Benign Prostatic Hyperplasia,tamsulosin
+340,Benzodiazepine Overdose,flumazenil
+341,Benzodiazepine Withdrawal,clonazepam
+342,IgA Nephropathy,cyclophosphamide
+343,Beriberi,thiamine
+344,Berylliosis,prednisone
+346,Beta Thalassemia,luspatercept
+348,Neurofibromatosis,bevacizumab
+349,Bile Acid Synthesis Disorders,cholic acid
+350,Primary Biliary Cholangitis,ursodiol
+354,Bipolar Disorder,lamotrigine
+360,Birth Control (Contraception),levonorgestrel
+361,Hemangioma,propranolol
+363,Urinary Tract Stones,tamsulosin
+364,Bladder Cancer,mitomycin
+365,Overactive Bladder,darifenacin
+366,Bladder Infection,ciprofloxacin
+368,Interstitial Cystitis,phenazopyridine
+370,Urinary Incontinence,oxybutynin
+371,Blastomycosis,fluconazole
+372,Bleeding Disorder,tranexamic acid
+374,Blepharitis,dexamethasone / neomycin / polymyxin b
+375,Blepharoconjunctivitis,polymyxin b / trimethoprim
+376,Blepharospasm,incobotulinumtoxinA
+378,Nasal Congestion,pseudoephedrine
+379,Blood Cell Transplantation,cisplatin
+380,Deep Vein Thrombosis,enoxaparin
+381,Blood Disorders,hetastarch
+382,Burning Mouth Syndrome (Glossopyrosis),clonazepam
+384,Body Imaging,iohexol
+385,Lice,permethrin
+386,Tinea Corporis,betamethasone / clotrimazole
+387,Osteosarcoma,methotrexate
+388,Bone infection (Osteomyelitis),cephalexin
+389,Bone Marrow Transplantation,fluconazole
+390,"Bone Marrow Transplantation, Failure or Engraftment Delay",sargramostim
+391,"Bone Marrow Transplantation, Myeloid Reconstruction",sargramostim
+392,Osteolytic Bone Metastases of Solid Tumors,denosumab
+393,"Breast Cancer, Bone Metastases",pamidronate
+394,Osteoporosis,alendronate
+396,Borderline Personality Disorder,quetiapine
+397,Botulism,botulism immune globulin
+398,Botulism Prophylaxis,botulism antitoxin
+400,Bowel Preparation,polyethylene glycol 3350
+404,Bradyarrhythmia,atropine
+407,Brain Tumor,lomustine
+408,Head Injury,amantadine
+412,Breakthrough Pain,fentanyl
+413,Breast Cancer,tamoxifen
+414,"Breast Cancer, Adjuvant",tamoxifen
+417,"Breast Cancer, Male",tamoxifen
+418,"Breast Cancer, Metastatic",letrozole
+419,"Breast Cancer, Palliative",tamoxifen
+420,"Breast Cancer, Prevention",tamoxifen
+421,Lactation Augmentation,metoclopramide
+422,Osteogenesis Imperfecta,calcitonin
+424,Bronchiectasis,albuterol
+425,Respiratory Syncytial Virus,ribavirin
+426,Bronchitis,azithromycin
+427,COPD,prednisone
+429,Bronchogenic Carcinoma,cimetidine
+430,Pneumonia,levofloxacin
+431,Bronchopulmonary Dysplasia,fluticasone
+432,Bronchospasm During Anesthesia,isoproterenol
+433,Bronchospasm Prophylaxis,albuterol
+434,Brucellosis,doxycycline
+435,Bruxism,onabotulinumtoxinA
+436,Plague,ciprofloxacin
+437,Thrombotic/Thromboembolic Disorder,heparin
+438,Bulimia,fluoxetine
+440,Bullous Pemphigoid,prednisone
+442,"Burns, External",silver sulfadiazine
+443,Minor Burns,vitamin a & d
+444,"Burns, Nitrogen Retention",somatropin
+446,Bursitis,naproxen
+447,Post Traumatic Stress Disorder,prazosin
+448,Clostridioides difficile Infection,vancomycin
+451,Methicillin-Resistant Staphylococcus Aureus Infection,vancomycin
+452,Cachexia,megestrol
+454,Calcium Oxalate Calculi with Hyperuricosuria,allopurinol
+460,Cancer,carboplatin
+474,Cervical Cancer,cisplatin
+475,Chronic Eosinophilic Leukemia,imatinib
+476,Chronic Lymphocytic Leukemia,ibrutinib
+477,Chronic Myelogenous Leukemia,imatinib
+478,Colorectal Cancer,oxaliplatin
+480,Conjunctival Mucosa-Associated Lymphoid Tissue Lymphoma,interferon alfa-2b
+481,Cutaneous T-cell Lymphoma,romidepsin
+482,Dermatofibrosarcoma Protuberans,imatinib
+483,Endometrial Cancer,megestrol
+484,Fallopian Tube Cancer,bevacizumab
+485,Stomach Cancer,fluorouracil
+486,Hairy Cell Leukemia,cladribine
+487,Hodgkin's Lymphoma,bleomycin
+489,Kaposi's Sarcoma,paclitaxel
+491,Leukemia,prednisone
+492,Non-Small Cell Lung Cancer,cisplatin
+493,Small Cell Lung Cancer,etoposide
+494,Lymphoma,prednisone
+495,Multiple Myeloma,dexamethasone
+496,Malignant Pleural Mesothelioma,pemetrexed
+497,Melanoma,interferon alfa-2b
+498,Meningeal Leukemia,methotrexate
+500,Wilms' Tumor (Nephroblastoma),paclitaxel
+501,Non-Hodgkin's Lymphoma,cyclophosphamide
+502,Osteogenic Sarcoma,cisplatin
+504,Ovarian Cancer,carboplatin
+506,Pancreatic Cancer,gemcitabine
+510,Prostate Cancer,bicalutamide
+515,Skin Cancer,fluorouracil
+517,Squamous Cell Carcinoma,cetuximab
+519,Testicular Cancer,cisplatin
+523,Esophageal Candidiasis,fluconazole
+524,Candida Urinary Tract Infection,fluconazole
+525,Candidemia,fluconazole
+526,Cutaneous Candidiasis,nystatin
+528,Oral Thrush,nystatin
+529,Vaginal Yeast Infection,fluconazole
+531,Facial Wrinkles,tazarotene
+533,Capecitabine Overdose,uridine
+534,Capillariasis,mebendazole
+535,Cryopyrin-Associated Periodic Syndromes,rilonacept
+536,Cytokine Release Syndrome,tocilizumab
+537,Skin or Soft Tissue Infection,cephalexin
+539,Carcinoid Syndrome,lanreotide
+540,Carcinoid Syndrome Diarrhea,telotristat
+541,Carcinoid Tumor,octreotide
+546,Cardiac Arrest,epinephrine
+547,Cardiac Arrhythmia,isoproterenol
+548,Echocardiography,perflutren
+551,Cardiomyopathy Prophylaxis,dexrazoxane
+552,Hypertrophic Cardiomyopathy,nifedipine
+553,Cardiothoracic Surgery,allopurinol
+554,Cardiovascular Risk Reduction,simvastatin
+555,Carnitine Deficiency,levocarnitine
+557,Carpal Tunnel Syndrome,gabapentin
+558,Multicentric Castleman’s Disease,siltuximab
+561,Cataplexy,venlafaxine
+562,Schizophrenia,risperidone
+564,Reflex Sympathetic Dystrophy Syndrome,gabapentin
+569,Celiac Disease,infliximab
+576,Diabetes Insipidus,hydrochlorothiazide
+579,Cerebral Arteriography,iodixanol
+580,Cerebral Edema,dexamethasone
+581,Cerebral Spasticity,baclofen
+582,Cerebral Thrombosis/Embolism,ticlopidine
+583,Ischemic Stroke,clopidogrel
+584,Cerebrovascular Insufficiency,isoxsuprine
+585,Ear Wax Impaction,carbamide peroxide
+587,Cervical Dystonia (Spasmodic Torticollis),baclofen
+588,Radiculopathy,naproxen
+589,Cervical Ripening,misoprostol
+590,Cervicitis,azithromycin
+591,Cesarean Section,cefotaxime
+595,Chancroid,azithromycin
+596,Menopausal Disorders,esterified estrogens / methyltestosterone
+597,Muscle Spasm (Involuntary Hypertonicity),cyclobenzaprine
+601,Chemotherapy Toxicity,amifostine
+602,Heart Failure (Congestive Heart Failure),furosemide
+603,Chiari Malformation,acetaminophen
+604,Varicella-Zoster,acyclovir
+606,Chlamydia Infection,azithromycin
+607,Nongonococcal Urethritis,azithromycin
+608,Cholecystitis,cefazolin
+609,Cholera,ciprofloxacin
+610,Cholera Prophylaxis,"cholera vaccine, live"
+611,Hyperbilirubinemia,phenobarbital
+612,High Cholesterol,atorvastatin
+616,Choriocarcinoma,methotrexate
+618,Chorioditis,triamcinolone
+619,Trophoblastic Disease,methotrexate
+620,Chorioretinitis,prednisone
+621,Factor IX Deficiency,tranexamic acid
+622,Chromomycosis,ketoconazole
+624,Chronic Active Hepatitis,azathioprine
+626,Dementia,haloperidol
+628,Chronic Central Venous Catheterization,warfarin
+630,Cough,benzonatate
+631,New Daily Persistent Headache,sumatriptan
+632,Persistent Depressive Disorder,bupropion
+633,"Diarrhea, Chronic",loperamide
+639,Chronic Granulomatous Disease,interferon gamma-1b
+640,Hepatitis B,entecavir
+641,Hepatitis C,ribavirin
+642,Chronic Idiopathic Constipation,plecanatide
+643,Chronic Inflammatory Demyelinating Polyradiculoneuropathy,azathioprine
+644,Lyme Disease,doxycycline
+646,Hashimoto's disease (Chronic Lymphocytic Thyroiditis),levothyroxine
+647,Chronic Otitis Media,colistin sulfate / hydrocortisone / neomycin / thonzonium bromide
+648,Tic Disorder,risperidone
+649,Chronic Mucocutaneous Candidiasis,fluconazole
+651,Chronic Myofascial Pain,cyclobenzaprine
+655,"COPD, Acute",albuterol
+656,"COPD, Maintenance",albuterol
+657,Postural Orthostatic Tachycardia Syndrome,midodrine
+660,Chronic Pain,oxycodone
+661,Chronic Pancreatitis,pancrelipase
+662,Prostatitis,ciprofloxacin
+665,Renal Failure,furosemide
+666,Chronic Rhinosinusitis with Nasal Polyps,dupilumab
+668,Chronic Spasticity,baclofen
+672,Eosinophilic Granulomatosis with Polyangiitis,mepolizumab
+675,Systemic Sclerosis,methotrexate
+676,Neuronal Ceroid Lipofuscinosis,cerliponase alfa
+678,Major Depressive Disorder,bupropion
+681,Liver Fluke (Clornorchis sinensis),albendazole
+687,Prevention of Clostridioides difficile Infection Recurrence,bezlotoxumab
+690,Closure of Colostomy,fibrin sealant
+691,Cluster Headaches,tizanidine
+692,Cluster-Tic Syndrome,clonazepam
+695,CMV Gastroenteritis,foscarnet
+697,CMV Infection,ganciclovir
+698,CMV Prophylaxis,valacyclovir
+699,CMV Retinitis,valganciclovir
+703,CNS Magnetic Resonance Imaging,gadopentetate dimeglumine
+706,Coccidioidomycosis,fluconazole
+710,"Coccidioidomycosis, Meningitis",fluconazole
+711,Cogan's Syndrome,methotrexate
+712,Cold Symptoms,diphenhydramine
+713,Cold Sores (Herpes Simplex Labialis),valacyclovir
+716,Noninfectious Colitis,dicyclomine
+718,Ulcerative Colitis,mesalamine
+726,Ichthyosis,ammonium lactate
+727,Warts,salicylic acid
+735,Skin and Structure Infection,mupirocin
+736,Computed Tomography,barium sulfate
+737,Condylomata Acuminata,imiquimod
+741,Congenital Fibrinogen Deficiency,fibrinogen
+742,Herpes Simplex - Congenital,acyclovir
+743,Myotonia Congenita,mexiletine
+744,Nephrotic Syndrome,prednisone
+745,Congenital Syphilis,penicillin g benzathine
+749,Conjunctivitis,sulfacetamide sodium
+752,Constipation,docusate
+753,"Constipation, Acute",lactulose
+754,"Constipation, Chronic",lactulose
+756,"Constipation, Drug Induced",lubiprostone
+757,Opioid-Induced Constipation,naloxegol
+761,Induced Hypotension,nitroprusside
+762,Neurosis,nortriptyline
+768,Corneal Cystine Crystal Accumulation,cysteamine
+769,Corneal Refractive Surgery,ketorolac
+770,Corneal Ulcer,ciprofloxacin
+771,Coronary Arteriography,iodixanol
+775,Costochondritis,ibuprofen
+777,Cough and Nasal Congestion,brompheniramine / dextromethorphan / pseudoephedrine
+785,Scleroderma,methotrexate
+788,Crohn's Disease,azathioprine
+789,"Crohn's Disease, Acute",mercaptopurine
+790,"Crohn's Disease, Maintenance",mercaptopurine
+791,Croup,dexamethasone
+792,Crow's Feet,onabotulinumtoxinA
+795,"Cryptococcal Meningitis, Immunocompetent Host",fluconazole
+796,"Cryptococcal Meningitis, Immunosuppressed Host",fluconazole
+797,Cryptococcosis,fluconazole
+798,Cryptosporidiosis,nitazoxanide
+804,Cushing's Syndrome,dexamethasone
+808,Merkel Cell Carcinoma,avelumab
+809,Cutaneous Bacillus anthracis,doxycycline
+811,Cutaneous Fungal Infection,voriconazole
+813,Leishmaniasis,allopurinol
+814,Cutaneous Mastocytosis,ranitidine
+815,Cutaneous Sporotrichosis,potassium iodide
+817,Minor Cuts,pramoxine / zinc acetate
+819,Cyanide Poisoning,hydroxocobalamin
+820,Cyclic Vomiting Syndrome,amitriptyline
+822,Cyclitis,loteprednol
+823,Cyclothymic Disorder,lamotrigine
+826,Cystic Fibrosis,azithromycin
+827,Cysticercus cellulosae,albendazole
+828,Cystinuria,captopril
+830,Prevention of Bladder infection (Cystitis Prophylaxis),nitrofurantoin
+834,Cystourethrography,iohexol
+842,Dandruff,ketoconazole
+843,Narcolepsy,modafinil
+845,Synovitis,prednisone
+848,Deep Neck Infection,clindamycin
+850,Deep Vein Thrombosis Prophylaxis after Abdominal Surgery,enoxaparin
+851,Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,warfarin
+852,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,warfarin
+853,Deep Vein Thrombosis Prophylaxis after Orthopedic Surgery,dalteparin
+854,"Deep Vein Thrombosis, First Event",warfarin
+855,"Deep Vein Thrombosis, Prophylaxis",enoxaparin
+856,"Deep Vein Thrombosis, Recurrent Event",warfarin
+857,Deep Vein Thrombosis/Pulmonary Embolism Prophylaxis Following Hip Replacement Surgery,dabigatran
+862,Dehydration,lvp solution
+863,Gastroparesis,metoclopramide
+864,"Delayed Puberty, Male",testosterone
+867,Paranoid Disorder,risperidone
+869,Lewy Body Dementia,donepezil
+870,Herpetic Keratitis,trifluridine
+872,Dengue Fever,acetaminophen
+875,Oral and Dental Conditions,benzocaine
+876,Dental Abscess,amoxicillin
+877,Toothache,ibuprofen
+878,Depression,bupropion
+880,Neurotic Depression,amitriptyline
+881,Postpartum Depression,sertraline
+883,Depressive Psychosis,olanzapine
+887,"Dermal Necrosis, Prophylaxis",triamcinolone
+888,"Dermal Necrosis, Treatment",phentolamine
+890,Excoriation Disorder,fluoxetine
+891,Dermatitis,triamcinolone
+892,Dermatitis Herpetiformis,dapsone
+897,Diaper Rash,zinc oxide
+899,Dermatographism,carbinoxamine
+900,Photoaging of the Skin (Dermatoheliosis),tretinoin
+901,Dermatologic Lesion,zinc oxide
+902,Dermatological Disorders,betamethasone
+903,Dermatomyositis,prednisone
+904,Dermatophytosis,ketoconazole
+906,Urinary Frequency,oxybutynin
+907,"Diabetes, Type 2",metformin
+909,Diabetes Mellitus,insulin degludec
+910,"Diabetes, Type 1",insulin glargine
+912,"Diabetes, Type 3c",metformin
+914,Nonketotic Hyperosmolar Syndrome,insulin regular
+915,Diabetic Ketoacidosis,sodium bicarbonate
+916,Diabetic Kidney Disease (Diabetic Nephropathy),lisinopril
+917,Diabetic Macular Edema,fluocinolone
+919,Diabetic Peripheral Neuropathy,gabapentin
+922,Diabetic Retinopathy,ranibizumab
+923,Diagnosis and Investigation,mannitol
+924,Diagnostic Bronchograms,acetylcysteine
+929,Diarrhea,loperamide
+930,"Diarrhea, Acute",loperamide
+936,Dissociative Identity Disorder,sertraline
+937,Dientamoeba fragilis,metronidazole
+939,Dietary Fiber Supplementation,psyllium
+940,Dietary Supplementation,multivitamin
+942,Insomnia,trazodone
+943,Esophageal Spasm,isosorbide mononitrate
+945,Diffuse Large B-Cell Lymphoma,prednisone
+947,Digital Subtraction Angiography,iohexol
+948,Digitalis Glycoside Toxicity,digoxin immune fab
+950,Diphtheria,procaine penicillin
+951,Diphtheria Prophylaxis,"diphtheria toxoid / pertussis, acellular / tetanus toxoid"
+952,Fish Tapeworm Infection (Diphyllobothrium latum),praziquantel
+954,Dog Tapeworm Infection (Dipylidium caninum),praziquantel
+959,Systemic Lupus Erythematosus,hydroxychloroquine
+960,"Tuberculosis, Extrapulmonary",prednisone
+962,Diverticulitis,metronidazole
+970,Submental Fullness,deoxycholic acid
+972,Dracunculiasis,metronidazole
+973,Dravet Syndrome,cannabidiol
+974,Excessive Salivation,glycopyrrolate
+976,Drowsiness (Hypersomnia),caffeine
+978,Drug Induced Vitamin/Mineral Deficiency,pyridoxine
+979,High Blood Pressure (Hypertension),lisinopril
+981,Dry Eye Disease (Keratoconjunctivitis Sicca),cyclosporine
+983,Xerostomia,pilocarpine
+984,Dry Skin (Xerosis),ammonium lactate
+988,Duchenne Muscular Dystrophy,deflazacort
+991,Dumping Syndrome,pantoprazole
+992,Duodenal Ulcer,omeprazole
+993,Duodenal Ulcer Prophylaxis,ranitidine
+994,Gastritis/Duodenitis,omeprazole
+995,Dupuytren's contracture,collagenase clostridium histolyticum
+999,Dwarf Tapeworm Infection (Hymenolepis nana),nitazoxanide
+1000,Dysautonomia,midodrine
+1001,Infectious Diarrhea,ciprofloxacin
+1003,Dyslipidemia,pitavastatin
+1004,Period Pain (Dysmenorrhea),ibuprofen
+1005,Dyspareunia,ospemifene
+1006,Indigestion,omeprazole
+1011,Dystonia,baclofen
+1012,Dysuria,phenazopyridine
+1013,Traveler's Diarrhea,ciprofloxacin
+1015,Otitis Media,amoxicillin
+1018,Otitis Externa,hydrocortisone / neomycin / polymyxin b
+1023,Lambert-Eaton Myasthenic Syndrome,amifampridine
+1024,Ebola Zaire Disease Prophylaxis,"ebola zaire vaccine, live"
+1025,Mononucleosis,acyclovir
+1026,Echinococcus,mebendazole
+1029,Emergency Contraception (Postcoital Contraception),levonorgestrel
+1033,Erectile Dysfunction,sildenafil
+1035,Eosinophilic Esophagitis,fluticasone
+1036,Ehrlichiosis,doxycycline
+1039,Restless Legs Syndrome,ropinirole
+1042,Electromechanical Dissociation,epinephrine
+1052,Encephalopathy,methylene blue
+1054,Endocarditis,vancomycin
+1058,Endometrial Hyperplasia,megestrol
+1059,"Endometrial Hyperplasia, Prophylaxis",medroxyprogesterone
+1060,Endometriosis,norethindrone
+1061,Endometritis,ceftriaxone
+1062,Endoscopy or Radiology Premedication,diazepam
+1065,Enterobiasis,pyrantel
+1066,Enterocolitis,chlordiazepoxide / clidinium
+1070,"Epicondylitis, Tennis Elbow",dexamethasone
+1071,"Epididymitis, Non-Specific",ceftriaxone
+1072,"Epididymitis, Sexually Transmitted",doxycycline
+1073,Epiglottitis,ceftriaxone
+1074,Epilepsy,levetiracetam
+1075,Epithelioid Sarcoma,tazemetostat
+1078,Erdheim-Chester Disease,vemurafenib
+1081,Erosive Esophagitis,omeprazole
+1083,Skin Rash,hydrocortisone
+1084,Erythema Mulitforme,corticotropin
+1086,Erythroblastopenia,prednisone
+1087,Psoriasis,clobetasol
+1090,Esophageal Carcinoma,methotrexate
+1093,Esophageal Variceal Hemorrhage Prophylaxis,nadolol
+1094,Esophageal Varices,ethanolamine oleate
+1095,Esophageal Varices with Bleeding,vasopressin
+1096,Eustachian Tube Dysfunction,cetirizine
+1098,Eumycetoma,voriconazole
+1101,Euvolemic Hyponatremia,tolvaptan
+1102,Evan's Syndrome,cyclosporine
+1103,Ewing's Sarcoma,cyclophosphamide
+1104,Hyperekplexia,diazepam
+1106,Hyperhidrosis,oxybutynin
+1109,Exchange Transfusion,calcium gluconate
+1112,Expectoration (Mucolysis),acetylcysteine
+1113,Exposure to Hepatitis B Virus,hepatitis b immune globulin
+1114,Peritoneal Cancer,bevacizumab
+1115,Laryngopharyngeal Reflux,omeprazole
+1117,Extrapyramidal Reaction,benztropine
+1118,Extravasation,hyaluronidase
+1119,Factor VII Deficiency,coagulation factor viia
+1120,Eye Conditions,lutein
+1123,Eye Redness,fluorometholone
+1124,Eye Redness/Itching,fluorometholone
+1125,Eyelash Hypotrichosis,bimatoprost
+1126,Hordeolum,bacitracin / polymyxin b
+1127,Fabry Disease,agalsidase beta
+1128,Facial Lipoatrophy,poly-l-lactic acid
+1136,Factor X Deficiency,coagulation factor x
+1137,Factor XIII Deficiency,factor XIII
+1138,Failure to Thrive,cyproheptadine
+1140,Familial Adenomatous Polyposis,sulindac
+1141,Familial Cold Autoinflammatory Syndrome,canakinumab
+1143,Tumor Necrosis Factor Receptor Associated Periodic Syndrome,canakinumab
+1145,"High Cholesterol, Familial Heterozygous",atorvastatin
+1146,"High Cholesterol, Familial Homozygous",atorvastatin
+1147,Familial Hypophosphatemia,ergocalciferol
+1148,Familial Mediterranean Fever,colchicine
+1151,Fascioliasis,triclabendazole
+1152,"Fasciolopsis buski, Intestinal Fluke",praziquantel
+1153,Fatigue,modafinil
+1154,Nonalcoholic Fatty Liver Disease,ursodiol
+1155,Febrile Neutropenia,cefepime
+1157,Felty's Syndrome,auranofin
+1158,Female Infertility,metformin
+1159,Hypoactive Sexual Desire Disorder,flibanserin
+1160,Fever,acetaminophen
+1162,Fibrinolytic Bleeding,aminocaproic acid
+1163,Fibrocystic Breast Disease,danazol
+1164,Fibromatosis,celecoxib
+1165,Fibromyalgia,gabapentin
+1166,"Filariasis, Elephantiasis",albendazole
+1173,Influenza,oseltamivir
+1174,Influenza Prophylaxis,"influenza virus vaccine, inactivated"
+1175,Fluorouracil Overdose,uridine
+1176,Focal Segmental Glomerulosclerosis,cyclosporine
+1177,Folic Acid Antagonist Overdose,leucovorin
+1178,Folic Acid Deficiency,folic acid
+1179,Follicle Stimulation,menotropins
+1180,Follicular Lymphoma,rituximab
+1182,Foot Care,salicylic acid / urea
+1183,Forehead Lines,onabotulinumtoxinA
+1185,"Hyperlipoproteinemia Type IIa, Elevated LDL",fenofibrate
+1186,"Hyperlipoproteinemia Type IIb, Elevated LDL   VLDL",fenofibrate
+1187,"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",atorvastatin
+1188,"Hyperlipoproteinemia Type IV, Elevated VLDL",fenofibrate
+1189,"Hyperlipoproteinemia Type V, Elevated Chylomicrons   VLDL",fenofibrate
+1195,Functional Gastric Disorder,simethicone
+1196,Ovarian Cysts,ethinyl estradiol / levonorgestrel
+1197,Fungal Endocarditis,amphotericin b
+1198,Fungal Infections,fluconazole
+1199,Fungal Infection Prevention,fluconazole
+1200,Fungal Infection Prophylaxis,fluconazole
+1203,"Onychomycosis, Fingernail",terbinafine
+1204,Tinea Cruris,betamethasone / clotrimazole
+1205,"Fungal Infection, Internal and Disseminated",fluconazole
+1206,Onychomycosis,undecylenic acid
+1207,Tinea Capitis,terbinafine
+1208,"Onychomycosis, Toenail",terbinafine
+1210,Fungal Meningitis,voriconazole
+1211,Fungal Peritonitis,fluconazole
+1212,Fungal Pneumonia,fluconazole
+1213,Fusariosis,voriconazole
+1214,"Fusospirochetosis, Trench Mouth",penicillin v potassium
+1216,Gallbladder Contraction,sincalide
+1217,Gallbladder Disease,ursodiol
+1219,Gastric Cancer,methotrexate
+1221,Stomach Ulcer (Gastric Ulcer),omeprazole
+1222,Gastric Ulcer Maintenance Treatment,ranitidine
+1223,Gastric Ulcer Prophylaxis,esomeprazole
+1224,Gastrinoma,octreotide
+1227,Gastroenteritis,ondansetron
+1229,Gastrointestinal Candidiasis,nystatin
+1230,Gastrointestinal Decontamination,polyethylene glycol 3350 with electrolytes
+1231,Gastrointestinal Hemorrhage,ranitidine
+1232,Gastrointestinal Perforation,metronidazole
+1233,Gastrointestinal Stromal Tumor,imatinib
+1234,Gastrointestinal Surgery,alvimopan
+1235,Gastrointestinal Tract Examination,iohexol
+1237,Gaucher Disease,imiglucerase
+1238,Glioblastoma Multiforme,temozolomide
+1239,Giant Cell Tumor of Bone,denosumab
+1240,Tenosynovial Giant Cell Tumor,pexidartinib
+1241,Gender Dysphoria,spironolactone
+1247,Gestational Diabetes,insulin isophane
+1250,Giant Cell Arteritis,prednisone
+1253,Giardiasis,metronidazole
+1256,Gingivitis,chlorhexidine
+1257,Gitelman Syndrome,indomethacin
+1259,Glanders,chloramphenicol
+1260,Infectious Mononucleosis,acyclovir
+1261,Glanzmann's Disease,coagulation factor viia
+1263,Glaucoma,acetazolamide
+1264,"Glaucoma, Narrow Angle",pilocarpine
+1265,"Glaucoma, Open Angle",latanoprost
+1266,Glaucoma/Intraocular Hypertension,brimonidine / timolol
+1268,Malignant Glioma,carmustine
+1271,Glucagonoma,octreotide
+1274,Gnathostomiasis,albendazole
+1275,"Gold Poisoning, Severe",dimercaprol
+1276,Gonadotropin Inhibition,ganirelix
+1278,"Gonococcal Infection, Disseminated",ciprofloxacin
+1279,"Gonococcal Infection, Uncomplicated",azithromycin
+1281,Gout,allopurinol
+1282,"Gout, Acute",colchicine
+1283,"Gout, Prophylaxis",colchicine
+1284,Gouty Arthritis,prednisone
+1285,Graft-versus-host disease,prednisone
+1286,Gram Negative Infection,colistimethate
+1288,Granuloma Annulare,fluocinonide
+1289,Granuloma Inguinale,azithromycin
+1290,Granulomatosis with Polyangiitis,azathioprine
+1292,Tympanostomy Tube Placement Surgery,ciprofloxacin
+1293,Strep Throat (Streptococcal Pharyngitis),amoxicillin / clavulanate
+1294,Growth Hormone Reserve Test,insulin regular
+1295,"Growth Retardation, Chronic Renal Failure",somatropin
+1296,GTP-CH Deficiency,carbidopa / levodopa
+1299,Mucopolysaccharidosis Type VII,vestronidase alfa
+1302,Gynecological Conditions,misoprostol
+1303,Swine Flu,oseltamivir
+1306,Hereditary Angioedema,C1 esterase inhibitor (human)
+1307,Hemophagocytic Lymphohistiocytosis,emapalumab
+1309,Haemophilus influenzae Prophylaxis,rifampin
+1312,Hangover,aspirin / caffeine
+1317,Hepatocellular Carcinoma,sorafenib
+1320,Head and Neck Cancer,cetuximab
+1321,Head Imaging,ioversol
+1323,Head Lice,malathion
+1324,Headache,ibuprofen
+1325,Heart Attack (Myocardial Infarction),aspirin
+1332,Heat Stress,electrolyte replacement solutions
+1333,Menorrhagia,tranexamic acid
+1334,Helicobacter Pylori Infection,omeprazole
+1337,Hemochromatosis,deferasirox
+1339,Hemolytic Anemia,dexamethasone
+1340,Hemolytic Uremic Syndrome,eculizumab
+1343,Hemophilia A,antihemophilic factor
+1344,Hemophilia A with Inhibitors,factor ix complex
+1345,Hemophilia B,coagulation factor ix
+1346,Hemorrhagic Cystitis Prophylaxis,mesna
+1348,Hemorrhoids,hydrocortisone
+1349,Hemosiderosis,deferasirox
+1350,Hemostasis,fibrin sealant
+1351,Heparin Overdose,protamine
+1352,Hepatic Coma,neomycin
+1353,Hepatic Encephalopathy,lactulose
+1354,Hepatic Tumor,sorafenib
+1356,Hepatic Veno-Occlusive Disease,defibrotide
+1357,Hepatitis A,immune globulin intramuscular
+1358,Hepatitis A Prophylaxis,hepatitis a adult vaccine
+1360,Hepatitis B Prevention (Hepatitis B Prophylaxis),hepatitis b adult vaccine
+1366,Herbal Supplementation,bioflavonoids
+1369,Hereditary Orotic Aciduria,uridine
+1370,Hereditary Tyrosinemia Type 1,nitisinone
+1371,Hiatal Hernia,omeprazole
+1372,Herniated Disk,naproxen
+1373,Ramsay Hunt Syndrome,acyclovir
+1374,Herpes Simplex,acyclovir
+1376,Herpes Simplex Dendritic Keratitis,ganciclovir
+1377,Herpes Simplex Encephalitis,acyclovir
+1379,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",valacyclovir
+1380,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",valacyclovir
+1381,"Herpes Simplex, Suppression",valacyclovir
+1382,Herpes Zoster,acyclovir
+1384,Herpes Zoster Iridocyclitis,prednisone
+1387,"Herpes Zoster, Prophylaxis",zoster vaccine live
+1389,"Heterophyes heterophyes, Intestinal Fluke",praziquantel
+1390,"Heterotopic Ossification, Spinal Cord Injury",etidronate
+1391,"Heterotopic Ossification, Total Hip Arthroplasty",etidronate
+1397,Hiccups,chlorpromazine
+1398,Hidradenitis Suppurativa,adalimumab
+1399,Hyperimmunoglobulin D Syndrome,canakinumab
+1404,High Risk Percutaneous Transluminal Angioplasty,allopurinol
+1406,Hypertriglyceridemia,fenofibrate
+1407,Hirsutism,spironolactone
+1409,Histiocytosis,vinblastine
+1410,Histoplasmosis,itraconazole
+1411,"Histoplasmosis, Immunocompenent Host",amphotericin b
+1412,"Histoplasmosis, Meningitis",amphotericin b
+1418,Urticaria,cetirizine
+1431,Hot Flashes,venlafaxine
+1433,Human Papilloma Virus,imiquimod
+1443,Human Papillomavirus Prophylaxis,human papillomavirus vaccine
+1445,Huntington's Disease,tetrabenazine
+1447,Mucopolysaccharidosis Type I,laronidase
+1448,Hydatid Disease,mebendazole
+1449,Hydrocephalus,acetazolamide
+1451,Hyperammonemia,sodium benzoate / sodium phenylacetate
+1453,Hypercalcemia,furosemide
+1454,Hypercalcemia of Malignancy,dexamethasone
+1460,Hypereosinophilic Syndrome,imatinib
+1463,Hyperhomocysteinemia,l-methylfolate
+1467,Hyperkalemia,calcium gluconate
+1468,Hyperkalemic Periodic Paralysis,dichlorphenamide
+1470,Hyperlipoproteinemia,fenofibrate
+1481,Hypermagnesemia,calcium gluconate
+1484,Hyperparathyroidism Secondary to Renal Impairment,calcifediol
+1485,Hyperphosphatemia,calcium acetate
+1486,Hyperphosphatemia of Renal Failure,sevelamer
+1487,Hyperprolactinemia,cabergoline
+1490,Hypertensive Emergency,clonidine
+1491,Hyperthyroidism,methimazole
+1495,Hyperuricemia Secondary to Chemotherapy,allopurinol
+1497,Hypocalcemia,calcitriol
+1499,Hypodermoclysis,hyaluronidase
+1500,Hypoestrogenism,estradiol
+1501,Hypoglycemia,glucagon
+1502,"Hypogonadism, Male",testosterone
+1504,Hypokalemia,potassium chloride
+1505,Hypokalemic Periodic Paralysis,acetazolamide
+1506,Hypomagnesemia,magnesium oxide
+1507,Mania,divalproex sodium
+1508,Hyponatremia,tolvaptan
+1510,Hypoparathyroidism,calcitriol
+1511,Hypophosphatasia,asfotase alfa
+1512,Hypophosphatemia,potassium phosphate / sodium phosphate
+1513,Hypopituitarism,somatropin
+1514,Hypoproteinemia,albumin human
+1515,"Hypoprothrombinemia, Anticoagulant Induced",phytonadione
+1516,"Hypoprothrombinemia, Not Associated with Anticoagulant Therapy",phytonadione
+1517,"Hypoprothrombinemia, Prophylaxis",phytonadione
+1518,Hypotension,midodrine
+1519,Underactive Thyroid (Hypothyroidism),levothyroxine
+1520,"Hypothyroidism, After Thyroid Removal (Hypothyroidism, Post-Thyroidectomy)",levothyroxine
+1523,Respiratory Depression,doxapram
+1524,Hypovolemia,hetastarch
+1525,Hysterectomy,piperacillin
+1527,Hysterosalpingography,iohexol
+1528,Inflammatory Bowel Disease,prednisone
+1529,Irritable Bowel Syndrome,dicyclomine
+1533,ICU Agitation,haloperidol
+1536,Idiopathic Hypertrophic Subaortic Stenosis,verapamil
+1539,Idiopathic Pulmonary Fibrosis,pirfenidone
+1540,Idiopathic Short Stature,somatropin
+1541,Idiopathic Thrombocytopenic Purpura,prednisone
+1542,Intermittent Explosive Disorder,fluoxetine
+1548,Waldenström Macroglobulinemia,ibrutinib
+1549,Immunodeficiency,pegademase bovine
+1550,Immunosuppression,prednisone
+1551,Insulin Resistance Syndrome (Metabolic Syndrome),metformin
+1553,Impetigo,mupirocin
+1558,Inclusion Conjunctivitis,doxycycline
+1565,Infection Prophylaxis,sulfamethoxazole / trimethoprim
+1583,Whipworm Infection,mebendazole
+1588,Inflammatory Conditions,meloxicam
+1590,Influenza A,amantadine
+1594,Inhibition of Intraoperative Miosis,diclofenac
+1598,Insect Bites,benzocaine
+1600,"Insomnia, Stimulant-Associated",clonidine
+1603,Insulinoma,octreotide
+1604,Intermittent Claudication,cilostazol
+1607,Interstitial Lung Disease,prednisone
+1610,Intertrigo,clotrimazole
+1613,Intestinal Arterial Insufficiency,mercaptopurine
+1614,Intra- or Post-op SVT or Hypertension,esmolol
+1615,Intra-arterial Digital Subtraction Angiography,iodixanol
+1616,Intraabdominal Infection,meropenem
+1619,Intraocular Hypertension,latanoprost
+1620,Intravenous Digital Subtraction Angiography,ioversol
+1621,Intravenous Urography,ioversol
+1622,"Mucormycosis, Invasive",isavuconazonium
+1628,Iridocyclitis,prednisone
+1629,Iritis,prednisolone
+1631,Iron Overload,deferasirox
+1633,"Iron Poisoning, Acute",deferoxamine
+1634,"Iron Poisoning, Chronic",deferoxamine
+1641,"Ischemic Stroke, Prophylaxis",aspirin
+1643,Pruritus,hydroxyzine
+1646,IV Catheter Clot,alteplase
+1647,Japanese Encephalitis Virus Prophylaxis,"japanese enceph vacc sa14-14-2, inactivated"
+1649,Jet Lag,armodafinil
+1651,Joint Infection,clindamycin
+1653,Juvenile Rheumatoid Arthritis,meloxicam
+1655,Juvenile Idiopathic Arthritis,methotrexate
+1659,Kawasaki Disease (Mucocutaneous Lymph Node Syndrome),aspirin
+1660,Keloids,triamcinolone
+1661,Keratitis,prednisolone
+1664,Keratoconjunctivitis,diclofenac
+1666,Keratosis,fluorouracil
+1670,Kidney Infections (Pyelonephritis),ciprofloxacin
+1671,Nephrolithiasis,potassium citrate
+1674,Klinefelter Syndrome,testosterone
+1676,Linear IgA Disease,dapsone
+1677,Labor Induction,oxytocin
+1678,Labor Pain,butorphanol
+1681,Lactation Suppression,clomiphene
+1682,Lactose Intolerance,lactase
+1684,Lymphangioleiomyomatosis,sirolimus
+1687,Langerhans' Cell Histiocytosis,indomethacin
+1691,"Lead Poisoning, Mild",edetate calcium disodium
+1692,"Lead Poisoning, Severe",succimer
+1693,Plantar Fibromatosis,clobetasol
+1695,Left Ventricular Dysfunction,carvedilol
+1698,Left Ventriculography,ioversol
+1699,Legionella Pneumonia,azithromycin
+1701,Lemierre's Syndrome,chloramphenicol
+1703,Lennox-Gastaut Syndrome,clobazam
+1704,Leprosy,dapsone
+1705,"Leprosy, Borderline",rifampin
+1706,"Leprosy, Dapsone-Resistant",clofazimine
+1707,"Leprosy, Dapsone-Sensitive",clofazimine
+1708,"Leprosy, Erythema Nodosum Leprosum",thalidomide
+1709,"Leprosy, Lepromatous",dapsone
+1710,"Leprosy, Tuberculoid",rifampin
+1711,Leptospirosis,ampicillin
+1726,Leukocytoclastic Vasculitis,dapsone
+1729,Lhermitte's Sign,gabapentin
+1734,Lichen Planus,clobetasol
+1735,Lichen Sclerosus,clobetasol
+1736,Lichen Simplex Chronicus,triamcinolone
+1738,Light Anesthesia,midazolam
+1739,Light Sedation,diazepam
+1747,Lipodystrophy,tesamorelin
+1749,Liposarcoma,eribulin
+1750,Lithium Tremor,nadolol
+1753,Liver Magnetic Resonance Imaging,gadoxetate disodium
+1754,Liver Metastasis in Adenocarcinoma,floxuridine
+1755,Local Anesthesia,lidocaine
+1757,Loeffler's Syndrome (Pulmonary Eosinophilia),prednisone
+1758,Loiasis,albendazole
+1759,Long QT Syndrome,nadolol
+1769,Lower Limb Spasticity,onabotulinumtoxinA
+1776,Toxic Epidermal Necrolysis,prednisone
+1778,"Lyme Disease, Arthritis",hydroxychloroquine
+1779,"Lyme Disease, Carditis",amoxicillin
+1780,"Lyme Disease, Erythema Chronicum Migrans",azithromycin
+1781,"Lyme Disease, Neurologic",doxycycline
+1784,Lymphocytic Colitis,loperamide
+1786,Lymphogranuloma Venereum,erythromycin
+1796,Lysosomal Acid Lipase Deficiency,sebelipase alfa
+1797,Macrophage Activation Syndrome,etanercept
+1798,Macular Degeneration,ranibizumab
+1799,Macular Edema,dexamethasone
+1803,Malaria,artemether / lumefantrine
+1804,Malaria Prevention (Malaria Prophylaxis),doxycycline
+1810,Malignant Hyperthermia,dantrolene
+1813,Malignant Pleural Effusion,bleomycin
+1821,Manscaping Pain,lidocaine
+1822,Mantle Cell Lymphoma,ibrutinib
+1824,Systemic Mastocytosis,cromolyn
+1825,McCune-Albright Syndrome,tamoxifen
+1827,Mild Cognitive Impairment,donepezil
+1828,Mixed Connective Tissue Disease,prednisone
+1830,Myelodysplastic Syndrome,filgrastim
+1833,Measles,immune globulin intramuscular
+1834,Measles Prophylaxis,measles virus vaccine / mumps virus vaccine / rubella virus vaccine
+1835,Medical Procedures,sodium chloride
+1839,"Melanoma, Metastatic",ipilimumab
+1840,Melasma,fluocinolone / hydroquinone / tretinoin
+1841,Melioidosis,sulfamethoxazole / trimethoprim
+1846,Meniere's Disease,diazepam
+1848,Meningitis,ceftriaxone
+1849,"Meningitis, Haemophilus influenzae",dexamethasone
+1850,"Meningitis, Listeriosis",dexamethasone
+1851,"Meningitis, Meningococcal",dexamethasone
+1852,"Meningitis, Pneumococcal",dexamethasone
+1853,"Meningitis, Streptococcus Group B",penicillin g potassium
+1854,Meningococcal Meningitis Prophylaxis,ceftriaxone
+1858,Menstrual Disorders,tranexamic acid
+1859,Mercury Poisoning,dimercaprol
+1863,Metabolic Acidosis,sodium bicarbonate
+1866,"Metagonimus yokogawai, Intestinal Fluke",praziquantel
+1869,Methanol Poisoning,fomepizole
+1872,Methotrexate Overdosage,levoleucovorin
+1873,Methotrexate Rescue,leucovorin
+1877,Microscopic polyangiitis,rituximab
+1878,Microsporidiosis,itraconazole
+1882,Migraine Prevention (Migraine Prophylaxis),topiramate
+1886,Transient Ischemic Attack,clopidogrel
+1889,Minor Skin Conditions,vitamin a & d
+1890,Minor Skin Irritation,vitamin a & d
+1896,Molluscum Contagiosum,imiquimod
+1899,Moniliformis Infection,pyrantel
+1900,Monkeypox Prophylaxis,smallpox and monkeypox vaccine
+1907,Nausea/Vomiting of Pregnancy,doxylamine / pyridoxine
+1911,Mucopolysaccharidosis Type IV,elosulfase alfa
+1913,Motion Sickness,meclizine
+1915,Mountain Sickness / Altitude Sickness,acetazolamide
+1926,Multiple Sclerosis,prednisone
+1927,Muckle Wells Syndrome,canakinumab
+1931,Mucopolysaccharidosis Type II,idursulfase
+1933,Mucopolysaccharidosis Type VI,galsulfase
+1936,Mucositis,chlorhexidine
+1939,Multifocal Motor Neuropathy,immune globulin intravenous and subcutaneous
+1940,Multiple Endocrine Adenomas,omeprazole
+1943,Osteolytic Bone Lesions of Multiple Myeloma,zoledronic acid
+1947,Mumps Prophylaxis,measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine
+1957,Myasthenia Gravis,pyridostigmine
+1958,"Mycobacterium avium-intracellulare, Prophylaxis",azithromycin
+1959,"Mycobacterium avium-intracellulare, Treatment",ethambutol
+1960,Mycobacterium kansasii,isoniazid
+1961,Mycoplasma Pneumonia,azithromycin
+1962,Mycosis Fungoides,prednisone
+1963,Myelodysplastic Diseases,lenalidomide
+1966,Myelography,iohexol
+1969,Spina bifida,oxybutynin
+1970,Myeloproliferative Disorders,ruxolitinib
+1972,"Myocardial Infarction, Prophylaxis",aspirin
+1975,Myopathy,azathioprine
+1976,Myopic Choroidal Neovascularization,ranibizumab
+1978,Myxedema,liothyronine
+1979,Myxedema Coma,levothyroxine
+1982,Nail Dystrophy,poly-ureaurethane
+1984,Naophyetus salmincola,praziquantel
+1986,Neonatal Abstinence Syndrome,morphine
+1988,Nasal Carriage of Staphylococcus aureus,mupirocin
+1990,Nasal Polyps,fluticasone
+1991,"Nasal Polyps, Prevention",beclomethasone
+1994,Nausea/Vomiting,ondansetron
+1997,"Nausea/Vomiting, Chemotherapy Induced",ondansetron
+1998,"Nausea/Vomiting, Postoperative",ondansetron
+1999,"Nausea/Vomiting, Radiation Induced",ondansetron
+2002,Neck Pain,ibuprofen
+2004,Necrobiosis Lipoidica Diabeticorum,clobetasol
+2008,Neonatal Conjunctivitis,azithromycin
+2011,Neoplastic Diseases,methotrexate
+2013,Nephrocalcinosis,hydrochlorothiazide
+2015,Nephropathic Cystinosis,cysteamine
+2016,Nephropathy,lisinopril
+2020,Nerve Agent Poisoning,atropine / pralidoxime
+2021,Nerve Agent Pretreatment,pyridostigmine
+2022,Neuralgia,baclofen
+2026,Neuritis,interferon beta-1a
+2027,Neuroblastoma,vincristine
+2028,Neurocysticercosis,albendazole
+2030,Neuroendocrine Carcinoma,lanreotide
+2035,Neuroleptic Malignant Syndrome,carbidopa / levodopa
+2036,Neurological Disorders,guanidine
+2037,Neuromyelitis Optica,eculizumab
+2040,Neuropathic Pain,gabapentin
+2041,Peripheral Neuropathy,gabapentin
+2042,Neurosarcoidosis,prednisone
+2044,Neurosurgery,phenytoin
+2045,Neurosyphilis,ceftriaxone
+2047,Neurotrophic Keratitis,cenegermin
+2050,Neutropenia Associated with AIDS or Zidovudine,filgrastim
+2051,Neutropenia Associated with Chemotherapy,pegfilgrastim
+2052,Neutropenia Associated with Radiation,filgrastim
+2059,Niacin Deficiency,niacin
+2060,Niacin Flush,aspirin
+2061,Niemann-Pick Disease,miglustat
+2062,Nocturnal Leg Cramps,vitamin e
+2064,Night Terrors,clonazepam
+2065,Nightmares,prazosin
+2069,Nocardiosis,sulfamethoxazole / trimethoprim
+2070,Nocturia,desmopressin
+2073,Periodic Limb Movement Disorder,clonazepam
+2075,Non-24-Hour Sleep Wake Disorder,tasimelteon
+2089,Nonobstructive Oliguria,dopamine
+2090,Nonoccupational Exposure,lamivudine / zidovudine
+2094,Noonan's Syndrome,somatropin
+2095,Nosocomial Pneumonia,meropenem
+2097,NSAID-Induced Gastric Ulcer,esomeprazole
+2098,NSAID-Induced Ulcer Prophylaxis,misoprostol
+2101,Total Parenteral Nutrition,parenteral nutrition solution w / electrolytes
+2105,Obesity,phentermine
+2106,Obsessive Compulsive Disorder,sertraline
+2109,Obstructive Sleep Apnea/Hypopnea Syndrome,modafinil
+2111,Occupational Exposure,lamivudine / zidovudine
+2114,Ocular Fungal Infection,voriconazole
+2116,Ocular Rosacea,doxycycline
+2117,Oppositional Defiant Disorder,lisdexamfetamine
+2119,Oligospermia,clomiphene
+2120,Oliguria,furosemide
+2121,"Onchocerciasis, River Blindness",ivermectin
+2125,Oophorectomy,estradiol
+2126,Ophthalmic Surgery,ofloxacin
+2127,Ophthalmic Surgical Staining,trypan blue
+2128,Ophthalmic Viscoelastic Agent,sodium hyaluronate
+2129,Opiate Adjunct,promethazine
+2130,Opiate Dependence,buprenorphine / naloxone
+2131,Opiate Dependence - Induction,buprenorphine
+2132,Opiate Dependence - Maintenance,buprenorphine
+2133,Opiate Withdrawal,methadone
+2138,Opioid Overdose,naloxone
+2142,"Opisthorchis viverrini, Liver Fluke",praziquantel
+2144,Optic Neuritis,corticotropin
+2145,Oral Allergy Syndrome,epinephrine
+2151,Orbicularis Oculi,onabotulinumtoxinA
+2152,"Organ Transplant, Rejection Prophylaxis",tacrolimus
+2153,"Organ Transplant, Rejection Reversal",tacrolimus
+2154,Organophosphate Poisoning,atropine
+2155,Ornithosis,chloramphenicol
+2164,Osteomalacia,ergocalciferol
+2167,Osteopenia,calcium carbonate
+2168,Osteopetrosis,interferon gamma-1b
+2181,Ovulation Induction,clomiphene
+2183,Paget's Disease,alendronate
+2184,Pulmonary Hypertension,sildenafil
+2185,Pain,tramadol
+2192,Pain/Fever,acetaminophen / aspirin / caffeine
+2200,Pancreatic Exocrine Dysfunction,pancrelipase
+2201,Pancreatic Secretion,sincalide
+2202,Pancreatitis,pancreatin
+2204,PANDAS Syndrome,fluoxetine
+2205,Panic Disorder,clonazepam
+2208,Paracoccidioidomycosis,amphotericin b
+2209,Paraganglioma,iobenguane I 131
+2210,"Paragonimus westermani, Lung Fluke",praziquantel
+2215,Parkinson's Disease,carbidopa / levodopa
+2216,Parkinson's Disease Psychosis,pimavanserin
+2217,Parkinsonian Tremor,carbidopa
+2218,Parkinsonism,levodopa
+2219,Paronychia,nystatin
+2221,Paroxysmal Supraventricular Tachycardia,flecainide
+2222,Paroxysmal Nocturnal Hemoglobinuria,eculizumab
+2225,Patency Maintenance of Indwelling Intravenous Devices,heparin flush
+2226,Patent Ductus Arteriosus,indomethacin
+2227,Pathological Hypersecretory Conditions,ranitidine
+2228,Pathological Hypersecretory Disorder,magnesium oxide
+2231,Pseudobulbar Affect,dextromethorphan / quinidine
+2233,Polycystic Ovary Syndrome,metformin
+2236,Pediatric Angiocardiography,ioversol
+2238,Pediatric Growth Hormone Deficiency,somatropin
+2241,Pellagra,niacin
+2242,Pelvic Infections,ertapenem
+2243,Pelvic Inflammatory Disease,doxycycline
+2244,Pemphigoid,dapsone
+2245,Pemphigus,prednisone
+2246,Pemphigus Vulgaris,rituximab
+2247,Penicillin Sensitization Testing,benzylpenicilloyl-polylysine
+2248,Peptic Ulcer,pantoprazole
+2249,Percutaneous Coronary Intervention,clopidogrel
+2250,Performance Anxiety,propranolol
+2252,Perimenopausal Symptoms,progesterone
+2255,Periodontitis,doxycycline
+2257,Perioral Dermatitis,clindamycin
+2259,Peripheral Arterial Disease,clopidogrel
+2260,Peripheral Arteriography,iodixanol
+2263,Peripheral Progenitor Cell Transplantation,filgrastim
+2264,Peripheral T-cell Lymphoma,pralatrexate
+2268,Peritoneal dialysis,lvp solution
+2269,Peritonitis,clindamycin
+2271,Pernicious Anemia,cyanocobalamin
+2273,Postherpetic Neuralgia,gabapentin
+2277,Pertussis,azithromycin
+2278,Pertussis Prophylaxis,clarithromycin
+2279,Positron Emission Tomography Imaging,florbetapir F 18
+2280,Peyronie's Disease,collagenase clostridium histolyticum
+2281,Pharyngitis,azithromycin
+2283,Phenylketonuria,sapropterin
+2284,Pheochromocytoma,phenoxybenzamine
+2285,Pheochromocytoma Diagnosis,phentolamine
+2286,Social Anxiety Disorder,sertraline
+2288,Physical Urticaria,cetirizine
+2292,Pinworm Infection (Enterobius vermicularis),mebendazole
+2294,Pituitary Adenoma,octreotide
+2296,Pityriasis rubra pilaris,triamcinolone
+2297,Tinea Versicolor,ketoconazole
+2301,Plague Prophylaxis,levofloxacin
+2303,Plantar Fasciitis,ibuprofen
+2307,Plaque Psoriasis,betamethasone
+2311,Platelet Aggregation Inhibition,clopidogrel
+2312,Pleural Effusion,doxycycline
+2314,Primary Mediastinal Large B-cell Lymphoma,pembrolizumab
+2315,Premenstrual Dysphoric Disorder,fluoxetine
+2316,Premenstrual Syndrome,acetaminophen / pamabrom / pyrilamine
+2319,Pneumococcal Disease Prophylaxis,pneumococcal 13-valent vaccine
+2320,Pneumocystis Pneumonia,dapsone
+2321,Pneumocystis Pneumonia Prophylaxis,dapsone
+2323,Pneumonia with Cystic Fibrosis,ceftazidime
+2325,Poison Ivy,pramoxine / zinc acetate
+2326,Poison Oak,pramoxine / zinc acetate
+2327,Poison Sumac,pramoxine / zinc acetate
+2328,Poliomyelitis Prophylaxis,"poliovirus vaccine, inactivated"
+2329,Polychondritis,infliximab
+2332,Polycythemia Vera,hydroxyurea
+2336,Polymyalgia Rheumatica,prednisone
+2337,Polymyositis/Dermatomyositis,prednisone
+2339,Pompe disease,alglucosidase alfa
+2340,Pork Tapeworm Infection (Taenia solium),praziquantel
+2342,Portal Hypertension,propranolol
+2344,Post-Cholecystectomy Diarrhea,cholestyramine
+2347,Rhinorrhea,ipratropium
+2348,Post-Polio Syndrome,amantadine
+2350,Postanesthetic Shivering,ondansetron
+2354,Postmenopausal Symptoms,estradiol
+2356,Postoperative Albumin Loss,albumin human
+2357,Postoperative Gas Pains,simethicone
+2358,Postoperative Ileus,alvimopan
+2359,Postoperative Increased Intraocular Pressure,nepafenac
+2360,Postoperative Ocular Inflammation,prednisolone
+2361,Postoperative Pain,ketorolac
+2362,Postpartum Bleeding,methylergonovine
+2363,Postpartum Breast Pain,testosterone
+2368,Pouchitis,metronidazole
+2370,Prader-Willi Syndrome,somatropin
+2371,Pre-Exposure Prophylaxis,emtricitabine / tenofovir
+2373,Precocious Puberty,tamoxifen
+2374,Premature Ejaculation,fluoxetine
+2375,Premature Labor,progesterone
+2376,Premature Ventricular Depolarizations,metoprolol
+2380,"Skin Disinfection, Preoperative",chlorhexidine
+2382,Prepubertal Cryptorchidism,chorionic gonadotropin (hcg)
+2386,Prevention of Atherothrombotic Events,ticagrelor
+2389,Prevention of Cardiovascular Disease,atorvastatin
+2392,Prevention of Dental Caries,fluoride
+2393,Prevention of Falls,cholecalciferol
+2394,Prevention of Fractures,cholecalciferol
+2395,Prevention of Hypokalemia,potassium chloride
+2397,Prevention of Osteoporosis,alendronate
+2398,Prevention of Perinatal Group B Streptococcal Disease,clindamycin
+2399,Prevention of Phototoxicity in Erythropoietic Protoporphyria,afamelanotide
+2400,Prevention of Radiographic Contrast Nephropathy,fenoldopam
+2401,Prevention of Sunburn,zinc oxide
+2402,Prevention of Thromboembolism in Atrial Fibrillation,warfarin
+2407,Primary Hyperaldosteronism,spironolactone
+2408,Primary Hyperaldosteronism Diagnosis,spironolactone
+2409,Primary Hyperparathyroidism,cinacalcet
+2411,Primary IGF-1 Deficiency,mecasermin
+2412,Primary Immunodeficiency Syndrome,immune globulin intravenous
+2416,Primary Nocturnal Enuresis,desmopressin
+2417,Primary Ovarian Failure,estradiol
+2418,Primary Periodic Paralysis,dichlorphenamide
+2421,Proctitis,hydrocortisone
+2422,Production of Miosis,carbachol
+2423,Progesterone Insufficiency,progesterone
+2429,Transurethral Prostatectomy,fosfomycin
+2432,"Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis",warfarin
+2433,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",warfarin
+2434,Protein C Deficiency,protein c
+2435,Protein S Deficiency,warfarin
+2440,Pruritus of Partial Biliary Obstruction,cholestyramine
+2442,Pseudoallescheriosis,voriconazole
+2445,"Pseudogout, Prophylaxis",colchicine
+2446,Pseudohypoparathyroidism,calcium lactate
+2449,Psittacosis,doxycycline
+2452,Psoriatic Arthritis,methotrexate
+2454,Somatoform Pain Disorder,amitriptyline
+2455,Psychosis,haloperidol
+2460,Pubertal Gynecomastia,anastrozole
+2462,Pudendal Neuralgia,gabapentin
+2464,Pulmonary Edema,furosemide
+2465,Pulmonary Embolism,rivaroxaban
+2466,"Pulmonary Embolism, First Event",warfarin
+2467,"Pulmonary Embolism, Recurrent Event",warfarin
+2473,Pulmonary Tuberculosis,dexamethasone
+2475,Pupillary Dilation,atropine
+2478,Pyoderma Gangrenosum,infliximab
+2480,Q Fever,doxycycline
+2484,Rabbit Fever (Tularemia),doxycycline
+2485,Rabies Prophylaxis,"rabies immune globulin, human"
+2487,Radiation Emergency,potassium iodide
+2489,Radiographic Exam,metoclopramide
+2490,Radionuclide Myocardial Perfusion Study,dipyridamole
+2495,Rat-bite Fever,penicillin v potassium
+2496,Raynaud's Syndrome,nifedipine
+2500,Reactive Perforating Collangenosis,allopurinol
+2505,Reduction of Perinatal Transmission of HIV,zidovudine
+2508,"Refraction, Assessment",cyclopentolate
+2510,Rejection Prophylaxis,mycophenolic acid
+2511,Rejection Reversal,muromonab-cd3
+2513,Renal Arteriography,iodixanol
+2518,Renal Osteodystrophy,calcitriol
+2520,Renal Transplant,furosemide
+2521,Renal Tubular Acidosis,potassium citrate
+2525,Respiratory Failure,nitric oxide
+2528,Upper Respiratory Tract Infection,amoxicillin
+2530,Retinal Disorders,voretigene neparvovec
+2531,Retinopathy,ranibizumab
+2532,Retinopathy Prophylaxis,vitamin e
+2533,"Revascularization Procedures, Prophylaxis",aspirin
+2534,Reversal of Acquired Coagulation Factor Deficiency,prothrombin complex
+2535,Reversal of Anesthesia,phentolamine
+2536,Reversal of Anticoagulation,coagulation factor Xa
+2537,Reversal of Dabigatran Anticoagulation,idarucizumab
+2538,Reversal of Neuromuscular Blockade,neostigmine
+2539,Reversal of Nondepolarizing Muscle Relaxants,pyridostigmine
+2540,Reversal of Opioid Sedation,naloxone
+2541,Reversal of Sedation,flumazenil
+2542,"Reversible Airways Disease, Maintenance",budesonide
+2543,Rh-Isoimmunization,rho (d) immune globulin
+2544,Rhabdomyosarcoma,vincristine
+2545,Rheumatic Fever,aspirin
+2546,Rheumatic Fever Prophylaxis,penicillin v potassium
+2548,Rhinitis,fluticasone
+2550,Rickets,calcitriol
+2551,Rickettsial Infection,doxycycline
+2567,Rubella,immune globulin intramuscular
+2568,Rubella Prophylaxis,measles virus vaccine / mumps virus vaccine / rubella virus vaccine
+2571,Salivary Gland Cancer,trastuzumab
+2572,Salmonella Enteric Fever,ciprofloxacin
+2573,Salmonella Gastroenteritis,ciprofloxacin
+2575,SAPHO Syndrome,etanercept
+2576,Sarcoidosis,prednisone
+2579,Small Bowel Bacterial Overgrowth,amoxicillin / clavulanate
+2580,Scabies,permethrin
+2582,Streptococcal Infection,levofloxacin
+2585,Schilling Test,cyanocobalamin
+2586,Schistosoma haematobium,praziquantel
+2587,Schistosoma japonicum,praziquantel
+2588,Schistosoma mansoni,praziquantel
+2589,Schistosoma mekongi,praziquantel
+2590,Schizoaffective Disorder,quetiapine
+2597,Schnitzler Syndrome,anakinra
+2598,Sciatica,cyclobenzaprine
+2601,Systemic Sclerosis-Associated Interstitial Lung Disease,nintedanib
+2602,Venomous Scorpion Bite,antivenom (centruroides scorpion)
+2604,Scrapes,vitamin a & d
+2605,Scurvy,ascorbic acid
+2608,Seasonal Affective Disorder,bupropion
+2609,Seasonal Allergic Conjunctivitis,olopatadine
+2610,Seborrheic Dermatitis,ketoconazole
+2611,Seborrheic Keratosis,hydrogen peroxide
+2612,Secondary Cutaneous Bacterial Infections,mupirocin
+2613,Secondary Hyperparathyroidism,calcitriol
+2615,Sedation,trazodone
+2616,Subependymal Giant Cell Astrocytoma,everolimus
+2617,Seizure Prevention (Seizure Prophylaxis),lamotrigine
+2619,Seizure Prophylaxis During or Following Neurosurgery,phenytoin
+2623,Sepsis,vancomycin
+2624,Septicemia,cilastatin / imipenem
+2626,Serosal Cavity Neoplastic Disease,thiotepa
+2629,Serum Sickness,corticotropin
+2630,Severe Mood Dysregulation,risperidone
+2634,Small Fiber Neuropathy,gabapentin
+2636,Shift Work Sleep Disorder,modafinil
+2637,Shigellosis,ciprofloxacin
+2640,Shock,dopamine
+2642,Short Bowel Syndrome,glutamine
+2643,Short Stature for Age,somatropin
+2645,Shunt Infection,vancomycin
+2646,SIADH,demeclocycline
+2647,Sialorrhea,incobotulinumtoxinA
+2653,Sinus Symptoms,mometasone
+2657,Sitosterolemia,ezetimibe
+2658,Sjogren's Syndrome,hydroxychloroquine
+2671,Skin Pigmentation Disorder,tazarotene
+2676,Sleep Paralysis,clonazepam
+2685,Small Bowel or Pancreatic Fistula,octreotide
+2690,Small Intestine Intubation,metoclopramide
+2691,Smallpox,tecovirimat
+2692,Smallpox Prophylaxis,smallpox vaccine
+2693,Smallpox Vaccine Reaction,cidofovir
+2697,Smoking Cessation,bupropion
+2698,Vasospasm,papaverine
+2703,Solid Tumors,pembrolizumab
+2706,Sore Throat,phenol
+2711,Spasticity,baclofen
+2713,Spinal Muscular Atrophy,nusinersen
+2714,Spinal Spasticity,baclofen
+2715,Spleen Removal (Splenectomy),amoxicillin
+2718,Spondyloarthritis,diclofenac
+2720,Spondylolisthesis,gabapentin
+2721,Sporotrichosis,itraconazole
+2731,Status Epilepticus,lorazepam
+2732,STD Prophylaxis,azithromycin
+2736,Stem Cell Transplant Conditioning,fludarabine
+2737,Steroid Responsive Inflammatory Conditions,fluorometholone
+2738,Stevens-Johnson Syndrome,corticotropin
+2744,Stomatitis,sucralfate
+2747,Strabismus,onabotulinumtoxinA
+2755,Stress Ulcer Prophylaxis,ranitidine
+2759,Strongyloidiasis,ivermectin
+2762,Subarachnoid Hemorrhage,nimodipine
+2763,Subcorneal Pustular Dermatosis,infliximab
+2764,Subcutaneous Urography,hyaluronidase
+2769,Sucrase-Isomaltase Deficiency,sacrosidase
+2771,Sunburn,lidocaine
+2772,Superficial Siderosis,deferiprone
+2776,Supraventricular Tachycardia,metoprolol
+2777,Surgical Prophylaxis,ranitidine
+2780,Sweet's Syndrome,colchicine
+2787,"Syphilis, Early",doxycycline
+2788,"Syphilis, Latent",doxycycline
+2789,Syphilitic Aortic Aneurysm,penicillin g benzathine
+2790,Syringomyelia,gabapentin
+2792,Systemic Candidiasis,fluconazole
+2794,Systemic Fungal Infection,voriconazole
+2802,Ventricular Tachycardia,atenolol
+2803,Takayasu's Arteritis,azathioprine
+2804,Tapering Regimen,metoprolol
+2809,Tardive Dyskinesia,propranolol
+2811,Temporal Arteritis,triamcinolone
+2812,Temporomandibular Joint Disorder,cyclobenzaprine
+2816,Tertiary Syphilis,doxycycline
+2818,Tetanus,methocarbamol
+2819,Tetanus Prophylaxis,"diphtheria and tetanus toxoids / pertussis, acellular"
+2822,Vitamin B1 Deficiency,thiamine
+2826,Thrombocythemia,hydroxyurea
+2827,Thrombocytopenia,prednisone
+2828,Thrombocytopenia Idiopathic,triamcinolone
+2830,Thromboembolic Disorder,vorapaxar
+2831,Thromboembolic Stroke Prophylaxis,aspirin
+2833,Thrombotic Thrombocytopenic Purpura,caplacizumab
+2839,Thyroid Eye Disease,teprotumumab
+2841,Thyroid Storm,propylthiouracil
+2842,Thyroid Suppression Test,levothyroxine
+2844,Thyrotoxicosis,propranolol
+2847,Trigeminal Neuralgia,carbamazepine
+2861,Tinnitus,alprazolam
+2869,Tonsillitis/Pharyngitis,amoxicillin
+2873,Topical Disinfection,povidone iodine
+2876,Tourette's Syndrome,clonidine
+2878,Toxoplasmosis,clindamycin
+2879,"Toxoplasmosis, Prophylaxis",sulfamethoxazole / trimethoprim
+2882,Trachoma,doxycycline
+2883,Transcobalamin II Deficiency,hydroxocobalamin
+2889,Transverse Myelitis,gabapentin
+2894,Trichinosis,mebendazole
+2895,Trichomoniasis,metronidazole
+2896,Trichostrongylosis,mebendazole
+2898,Trichotillomania,naltrexone
+2907,Tuberous Sclerosis,everolimus
+2909,TSH Suppression,levothyroxine
+2912,"Tuberculosis, Active",isoniazid / pyrazinamide / rifampin
+2915,"Tuberculosis, HIV Positive",rifabutin
+2916,"Tuberculosis, Latent",isoniazid
+2917,"Tuberculosis, Prophylaxis",isoniazid
+2918,"Tuberculosis, Resistant",bedaquiline
+2919,Tuberculous Meningitis,dexamethasone
+2925,Turner Syndrome,oxandrolone
+2932,Typhoid Fever,ciprofloxacin
+2933,Typhoid Prophylaxis,"typhoid vaccine, live"
+2934,Undifferentiated Connective Tissue Disease,hydroxychloroquine
+2937,"Ulcerative Colitis, Active",mesalamine
+2938,"Ulcerative Colitis, Maintenance",mesalamine
+2939,Ulcerative Proctitis,mesalamine
+2949,Upper GI Hemorrhage,famotidine
+2950,Upper Limb Spasticity,onabotulinumtoxinA
+2953,Urea Cycle Disorders,sodium phenylbutyrate
+2957,Urinary Acidification,ascorbic acid
+2958,Urinary Alkalinization,sodium bicarbonate
+2961,Urinary Retention,bethanechol
+2964,Urinary Tract Tumors,bcg
+2966,Urography,iohexol
+2967,Urothelial Carcinoma,nivolumab
+2971,Uterine Bleeding,progesterone
+2974,Uterine Fibroids,leuprolide
+2975,Uterine Leiomyomata,leuprolide
+2977,Uveitis,methotrexate
+2978,"Uveitis, Posterior",prednisone
+2980,Vaccination and Prophylaxis,measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine
+2983,Vaginal Dryness,ospemifene
+2989,"Varicella-Zoster, Prophylaxis",varicella virus vaccine
+2990,Varicose Veins,polidocanol
+2992,Vascular Magnetic Resonance Imaging,gadopentetate dimeglumine
+2994,Vasoactive Intestinal Peptide Tumor,octreotide
+2995,Vasomotor Rhinitis,carbinoxamine
+2998,Venography,iodixanol
+3000,Venomous Snake Bite,antivenin (crotalidae) polyvalent
+3001,Venomous Spider Bite,antivenin (black widow spider)
+3003,Venous Thromboembolism,dalteparin
+3004,Ventricular Arrhythmia,sotalol
+3005,Ventricular Fibrillation,amiodarone
+3009,Visceral Arteriography,ioversol
+3010,"Visceral Larva Migrans, Toxicariasis",mebendazole
+3012,Vitamin A Deficiency,vitamin a
+3014,Vitamin B12 Deficiency,cyanocobalamin
+3016,Vitamin D Deficiency,cholecalciferol
+3017,Vitamin D Insufficiency,cholecalciferol
+3018,Vitamin E Deficiency,vitamin e
+3019,Vitamin K Deficiency,phytonadione
+3020,Vitamin/Mineral Supplementation and Deficiency,multivitamin with minerals
+3021,Vitamin/Mineral Supplementation during Pregnancy/Lactation,"multivitamin, prenatal"
+3022,Vitrectomy,triamcinolone
+3023,Vitreomacular Adhesion,ocriplasmin
+3026,von Willebrand Disease,desmopressin
+3029,Vulvodynia,amitriptyline
+3039,Weight Loss,phentermine
+3042,Wernicke's Encephalopathy,thiamine
+3043,West Syndrome,corticotropin
+3051,Wilson's Disease,penicillamine
+3053,Wolff-Parkinson-White Syndrome,flecainide
+3056,Wound Cleansing (Wound Debridement),acetic acid
+3058,Wound Infection,cefuroxime
+3062,X-Linked Hypophosphatemia,burosumab
+3066,Yellow Fever Prophylaxis,yellow fever vaccine
+3067,Zinc Deficiency,zinc acetate
+3069,Zollinger-Ellison Syndrome,pantoprazole
